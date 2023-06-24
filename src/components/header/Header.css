@@ -1,0 +1,15 @@
+nav {
+  /* background-color: #efefef; */
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+}
+
+nav a {
+  margin-left: 1.5rem;
+}
+nav a.active {
+  color: #5606c4;
+  border-bottom: 3px solid #ce1b1b;
+  font-weight: 500;
+}
